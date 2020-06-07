@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">351893908494-qqj133iodq61r9tsl24vh7au837stui5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sellyourcar-ec309.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">351893908494</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJJnidFj13swK7dMO9ncCXYKrEX2g6hlg</string>
+    <string name="google_app_id" translatable="false">1:351893908494:android:8a40cb80dfb79db9f7605f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJJnidFj13swK7dMO9ncCXYKrEX2g6hlg</string>
+    <string name="google_storage_bucket" translatable="false">sellyourcar-ec309.appspot.com</string>
+    <string name="project_id" translatable="false">sellyourcar-ec309</string>
+</resources>

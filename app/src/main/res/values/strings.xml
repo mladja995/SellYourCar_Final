@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SellYourCar</string>
+    <string name="signup">Sign Up</string>
+    <string name="main_label_text">Already have an account? Sign in here</string>
+    <string name="password">Password</string>
+    <string name="login_label_text">Not registered? Sign Up here</string>
+    <string name="signin">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="next">Next</string>
+    <string name="uploadimg">Upload image</string>
+    <string name="Map">Map</string>
+    <string name="Profile">Profile</string>
+    <string name="Message">Message</string>
+    <string name="Image">Image</string>
+    <string name="Description">Description</string>
+    <string name="Upload_Image">Upload Image</string>
+    <string name="Characteristics">Characteristics</string>
+    <string name="Mark">Mark</string>
+    <string name="Year">Year</string>
+    <string name="Model">Model</string>
+    <string name="Mileage">Mileage</string>
+    <string name="Fuel">Fuel</string>
+    <string name="SaveInCurrentLocation">Save in current location</string>
+    <string name="SaveInAnotherLocation">Save in another location</string>
+    <string name="Search">Search</string>
+    <string name="PostAdOnCurrentLocation">Post ad on current location</string>
+    <string name="Save">Save</string>
+    <string name="MyAds">My Ads</string>
+    <string name="elementText">Element</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="onff">ON/OFF</string>
+    <string name="enable_discoverable">Enable discoverable</string>
+    <string name="discover">Discover</string>
+    <string name="start_connection">Start connection</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="number">Contact number</string>
+    <string name="show_friends_and_users">Show friends and users</string>
+    <string name="show_ads_for_cars">Show car\'s ads</string>
+
+
+</resources>

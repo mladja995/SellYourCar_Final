@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.NearestVehiclesActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/activity_nearest_vehicles_recycler_view"
+        android:layout_width="426dp"
+        android:layout_height="520dp"
+        android:layout_marginBottom="16dp"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/BottomBar_Layout"
+        app:layout_constraintStart_toStartOf="parent"></android.support.v7.widget.RecyclerView>
+
+    <LinearLayout
+        android:id="@+id/BottomBar_Layout"
+        android:layout_width="425dp"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/activity_nearest_vehicles_recycler_view">
+
+        <Button
+            android:id="@+id/post_an_ad_edit_search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Search" />
+
+        <Button
+            android:id="@+id/post_an_ad_edit_post_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/PostAdOnCurrentLocation" />
+
+        <Button
+            android:id="@+id/post_an_ad_edit_save_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Save" />
+
+        <Button
+            android:id="@+id/post_an_ad_edit_my_ads_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/MyAds" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

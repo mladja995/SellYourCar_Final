@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profile_item"
+        android:title="@string/Profile"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/show_friends_and_users_item"
+        android:title="@string/show_friends_and_users"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/show_ads_for_cars_items"
+        android:title="@string/show_ads_for_cars"
+        android:orderInCategory="100" />
+    <item
+        android:id="@+id/logout_item"
+        android:title="@string/logout"
+        android:orderInCategory="100" />
+
+</menu>

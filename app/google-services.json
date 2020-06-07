@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351893908494",
+    "firebase_url": "https://sellyourcar-ec309.firebaseio.com",
+    "project_id": "sellyourcar-ec309",
+    "storage_bucket": "sellyourcar-ec309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351893908494:android:8a40cb80dfb79db9f7605f",
+        "android_client_info": {
+          "package_name": "com.example.mladen.sellyourcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351893908494-2l0n6kb15pmjgd289bamlr9rfmgkl05a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mladen.sellyourcar",
+            "certificate_hash": "f53b3151406b0be392ab8bc59ed27003e302eca4"
+          }
+        },
+        {
+          "client_id": "351893908494-qqj133iodq61r9tsl24vh7au837stui5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJJnidFj13swK7dMO9ncCXYKrEX2g6hlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351893908494-qqj133iodq61r9tsl24vh7au837stui5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
